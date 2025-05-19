@@ -1,0 +1,41 @@
+Templates guide
+https://bootstrapdemos.adminmart.com/modernize/dist/main/page-user-profile.html
+
+https://www.bootstrapdash.com/all-free-templates
+
+
+backend
+https://www.bootstrapdash.com/product/star-admin-free
+
+
+frontend
+https://www.bootstrapdash.com/product/azia-free
+
+https://demo.bootstrapdash.com/azia/src/template/dashboard-four.html
+
+
+composer install
+php artisan storage:link
+php artisan migrate:refresh --seed
+php artisan migrate:fresh --seed
+php artisan db:seed --class=AlumniJobSeeder
+
+https://phpgurukul.com/college-alumni-system-using-php-and-mysql/
+https://www.sourcecodester.com/php/14524/alumni-management-system-using-phpmysql-source-code.html
+https://github.com/studentprojectslive/Alumni-Management-System?tab=readme-ov-file
+
+<!-- https://www.sourcecodester.com/php/10832/web-based-alumni-tracking-system.html -->
+
+<!-- https://github.com/cris-ronaldo7/Alumni-Management-System -->
+<!-- https://www.studentprojects.live/phpscript/alumni-tracking-system/ -->
+
+https://alphacodecamp.com.ng/complete-online-alumni-management-system-script-using-php-mysql-source-code#google_vignette
+
+https://www.slideshare.net/slideshow/alumni-management-system-248322228/248322228#8
+
+https://www.researchgate.net/figure/Data-Flow-Diagram-of-Admin_fig2_362547243
+https://github.com/kazcfz/Alumni-Portal
+
+
+E-Forums
+https://aclc-tracker-system.disqus.com/admin/settings/universalcode/
